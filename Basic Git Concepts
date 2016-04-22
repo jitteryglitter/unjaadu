@@ -1,0 +1,12 @@
+Basic Git Concepts
+
+1. Repositories
+2. Committing
+3. Branches
+4. Pulling/Pushing
+
+Let's understand each of them:
+1. Repositories: Storage. Place where the project and its tracking is stored. There are two repos -- local and remote and the name of the game is to keep them synced.
+2. Committing: This can mean multiple things but all conceptually synonymous. Its a record of major or minor accomplishments. Its also a project satte that you may want to return to.
+3. Branches: Think of it as Save As version of your project
+4. Pulling/Pushing: Push to remote and Pull from remote.
